@@ -7,6 +7,7 @@ Shuffle a beautiful picture, then slide the tiles back into order. The classic 1
 ## Features
 - **3×3 / 4×4 / 5×5** board sizes.
 - **AI-generated picture packs** (Cosmos · Safari · Neon City) — made with media-tools (gpt-image-2).
+- **📷 Upload your own photo** — it's auto-cropped to a square and sliced into pieces. 100% client-side (the image never leaves your device) and remembered via localStorage.
 - **Move + time tracking** with a per-size **best record** (localStorage).
 - **Hold-to-peek** at the full picture, optional **tile numbers**, always-on **goal thumbnail**.
 - **Keyboard** (arrows / WASD), tap on mobile, smooth tile-slide animation, tiny WebAudio SFX.
